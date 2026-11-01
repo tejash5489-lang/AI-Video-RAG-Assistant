@@ -10,3 +10,4 @@ langchain-groq
 langchain-chroma
 langchain-text-splitters
 chromadb
+markdown
