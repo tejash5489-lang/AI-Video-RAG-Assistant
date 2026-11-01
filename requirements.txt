@@ -1,0 +1,12 @@
+streamlit
+yt-dlp
+pydub
+audioop-lts; python_version >= "3.13"
+groq
+requests
+python-dotenv
+langchain-core
+langchain-groq
+langchain-chroma
+langchain-text-splitters
+chromadb

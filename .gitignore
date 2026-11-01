@@ -1,0 +1,9 @@
+.venv/
+.env
+__pycache__/
+*.pyc
+downloads/
+vector_db/
+*.wav
+.lock
+CACHEDIR.TAG
